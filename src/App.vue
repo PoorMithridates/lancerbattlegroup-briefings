@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001",
           "name": "Find and Retrieve",
-          "status": "started"
+          "status": "start"
         },
       ],
       "pilots": [
