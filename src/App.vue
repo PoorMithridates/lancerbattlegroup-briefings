@@ -145,7 +145,7 @@ export default {
         "planet": "Dorada",
         "year": "5012u",
         "system": "Nerat-4",
-        "gate": "Orion-Midrim",
+        "gate": "Orion-JUNC6L3",
         "ring": "Orion-Main",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
