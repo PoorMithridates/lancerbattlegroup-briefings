@@ -95,13 +95,8 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "success"
-        },
-        {
-          "slug": "002",
-          "name": "WhatTheFuck",
-          "status": "start"
+          "name": "Find and Retrieve",
+          "status": "started"
         },
       ],
       "pilots": [
@@ -147,11 +142,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "planet": "Dorada",
+        "year": "5012u",
+        "system": "Nerat-4",
+        "gate": "Orion-Midrim",
+        "ring": "Orion-Main",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
