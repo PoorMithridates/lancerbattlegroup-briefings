@@ -1,5 +1,5 @@
 **Battlegroup Higher Calling**
-**Admiral Jonah Gladius**
+**Admiral John Smith**
 
 
 [8]  **UNS-HC New Horizon**
