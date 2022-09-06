@@ -31,8 +31,10 @@
 (0)   Primary Kinetic Batteries
 
  <p>
- **VEGA SQUADRON**
- <p>
+  
+  **Vega Squadron**
+ 
+<p>
  -   Ace Squadron
  -   Shipkiller
  -   Casque Armor
