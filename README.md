@@ -37,7 +37,7 @@ This file houses the [VantaJS](https://www.vantajs.com/) background used in the 
 This folder holds all of the assets.
 
 - `/icons` - If you want to replace the icons used across the application, this is where you'd swap them.
--- In here you cna change the company-icon to change the top left icon that shows the naval insignia if you would prefer Barony or HA breifings.
+- In here you can change the company-icon to change the top left icon that shows the naval insignia if you would prefer Barony or HA breifings.
 - `/missions` - This is where the summaries of missions are held. The filename MUST match the `slug` property within the App's data.
 - `/pilots` - This is where the images of pilots and their bios are held. Filenames MUST match the `callsign` property on pilots.
 - `/mechs` - This is where the images of mechs are held. Filenames MUST match the `mech` property on pilots.
