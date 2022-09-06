@@ -89,13 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "A1",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Find and Retrieve",
+          "slug": "A1",
+          "name": "A Throne of Bayonets",
           "status": "start"
         },
       ],
