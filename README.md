@@ -3,7 +3,7 @@
 
 **[Live Demo](https://lancer.kuenaimaku.com/)** (No Room for a Wallflower Spoilers)
 
-Go over mission briefings within the LANCER Universe in style by showing your players a fully animated mission briefing screen, with a Mirrorsmoke Mercenary Company theme.
+Go over mission briefings within the LANCER Universe in style by showing your players a fully animated mission briefing screen, with a Union Navy Space Command theme.
 
 ## Credits
 
@@ -37,13 +37,14 @@ This file houses the [VantaJS](https://www.vantajs.com/) background used in the 
 This folder holds all of the assets.
 
 - `/icons` - If you want to replace the icons used across the application, this is where you'd swap them.
+-- In here you cna change the company-icon to change the top left icon that shows the naval insignia if you would prefer Barony or HA breifings.
 - `/missions` - This is where the summaries of missions are held. The filename MUST match the `slug` property within the App's data.
 - `/pilots` - This is where the images of pilots and their bios are held. Filenames MUST match the `callsign` property on pilots.
 - `/mechs` - This is where the images of mechs are held. Filenames MUST match the `mech` property on pilots.
 - `bullet.png` - This replaces the default bullet point in Markdown areas.
 - `events.md` - This is the Markdown file used to create the Event Log pane.
 - `planet.webm` - This is the planet rotation video used in the header.
-- `startup.ogg` - This is the sound that plays on page load.
+- `startup.ogg` - This is the sound that plays on page load. (Note- Can't get this to play)
 
 ### App.vue
 This file contains the basic structure of the entire application - and houses the data for all the various places. within the file, find the `data()` method. Edit this to change what missions are available, which one loads initially, set the pilot information, and change what the header says. Below are the values you might have to change.
