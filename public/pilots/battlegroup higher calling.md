@@ -31,7 +31,7 @@
 (0)   Primary Kinetic Batteries
 
  <p>
- ** VEGA SQUADRON**
+ **VEGA SQUADRON**
  <p>
  -   Ace Squadron
  -   Shipkiller
