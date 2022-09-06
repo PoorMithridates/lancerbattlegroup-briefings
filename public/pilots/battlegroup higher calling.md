@@ -4,7 +4,7 @@
 
 [8]  **UNS-HC New Horizon**
  
-(6)   IPS-N Masauwu Class Heavy Carrier-Frame <p>
+(6)   IPS-N Masauwu Class Heavy Carrier-Frame
 (0)   Brace For Impact!
 (0)   Marine Landers
 (2)   Destroyer Escort
