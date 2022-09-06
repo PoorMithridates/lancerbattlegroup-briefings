@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Battlegroup Higher Calling",
-          "alias": "Admiral John Smith",
+          "callsign": "Battlegroup Falling Star",
+          "alias": "Commander Askar Aurelian",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "UNS",
-          "frame": "BB",
-          "mech": "New Horizon"
+          "frame": "CVE",
+          "mech": "Petty Tyrant"
         },
         {
           "callsign": "Battlegroup Lightbringers",
@@ -116,11 +116,27 @@ export default {
           "frame": "CV",
           "mech": "The Silent Girl"
         },
+         {
+          "callsign": "Battlegroup Visage of the Goliath",
+          "alias": "NHP Goliath",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "corpro": "UNS",
+          "frame": "BB",
+          "mech": "Eye of the Goliath"
+        },
+         {
+          "callsign": "Battlegroup Loansharks",
+          "alias": "Commodore Sisnar Cronkoch",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "corpro": "PMNG",
+          "frame": "CC",
+          "mech": "Expropriator"
+        },
       ],
       "header": {
         "planet": "Arkady II",
         "year": "5021u",
-        "system": "DS-2",
+        "system": "DS-6",
         "gate": "BLINK-1",
         "ring": "Orion-Main",
         "headerTitle": "Union Navy",
