@@ -6,5 +6,5 @@ PMNG Loansharks, Commodore Sisnar Cronkoch
 
 **Gainwitch** - Tawa-class Medium Carrier
 
-**Slipknot**- SUPERIOR-CLASS FRIGATE
+**Slipknot**- Superior-class Frigate
 
