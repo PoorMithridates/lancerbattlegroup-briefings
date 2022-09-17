@@ -1,9 +1,9 @@
 PMNG Loansharks, Commodore Sisnar Cronkoch
 
-**Expropriation** - Calendula-Class Battlecruiser
+**Lean On** - Hesperis-class Battleship
+2 Destroyer Escorts
 
-**Gainwitch** - Superior-Class Frigate
+**Gainwitch** - Tawa-class Medium Carrier
 
-**Slipknot**- Onopordum-Class Frigate
+**Slipknot**- SUPERIOR-CLASS FRIGATE
 
-**Cutpurse**- Tolumnia- Class Frigate
