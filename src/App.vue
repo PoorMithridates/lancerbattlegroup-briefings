@@ -101,36 +101,28 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Battlegroup Falling Stars",
-          "alias": "Commander Askar Aurelian",
+          "callsign": "Talisan",
+          "alias": "Setan Chul",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "UNS",
-          "frame": "CVE",
-          "mech": "Petty Tyrant"
+          "frame": "Everest",
+          "mech": "Unconscionable"
         },
         {
-          "callsign": "Battlegroup Lightbringers",
-          "alias": "Line Commander Ayin Ketera",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Black",
+          "alias": "Waltoph",
+          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "UNS",
-          "frame": "CV",
-          "mech": "The Silent Girl"
+          "frame": "Everest",
+          "mech": "Hollaback"
         },
          {
-          "callsign": "Battlegroup Visage of the Goliath",
-          "alias": "NHP Goliath",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Evelyn",
+          "alias": "Sadu Dotharl",
+          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "UNS",
-          "frame": "BB",
-          "mech": "Eye of the Goliath"
-        },
-         {
-          "callsign": "Battlegroup Loansharks",
-          "alias": "Commodore Sitnar Cronkoch",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "PMNG",
-          "frame": "BB",
-          "mech": "Lean On"
+          "frame": "Everest",
+          "mech": "Kaghan"
         },
       ],
       "header": {
