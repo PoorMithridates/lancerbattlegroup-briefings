@@ -34,7 +34,7 @@
       <div style="height:52px; overflow:hidden;">
         <div class="section-header clipped-medium-backward-pilot">
           <img src="/icons/pilot-icon.svg" />
-          <h1>Fleet Commanders</h1>
+          <h1>LANCER PILOTS</h1>
         </div>
         <div class="rhombus-back">&nbsp;</div>
       </div>
