@@ -4,11 +4,11 @@
 			<img :src="pilotPortrait" class="pilot-portrait" />
 			<div class="pilot-loadout">
 				<div class="name">
-					<h1>Battlegroup</h1>
+					<h1>CALLSIGN</h1>
 					<h2>{{ pilot.callsign }}</h2>
 				</div>
 				<div class="name">
-					<h1>Commanding Officer</h1>
+					<h1>NAME OR LEGAL ALIAS</h1>
 					<h2>{{ pilot.alias }}</h2>
 				</div>
 				<div class="code">{{ pilot.code }}</div>
