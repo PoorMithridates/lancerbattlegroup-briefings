@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "A1",
-          "name": "A Throne of Bayonets",
+          "name": "The Drop",
           "status": "start"
         },
       ],
@@ -134,15 +134,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Arkady II",
-        "year": "5021u",
-        "system": "DS-6",
-        "gate": "BLINK-1",
+        "planet": "CRESSIDIUM",
+        "year": "5023u",
+        "system": "CASCADE LINE",
+        "gate": "CASSOWAY STATION",
         "ring": "Orion-Main",
         "headerTitle": "Union Navy",
         "headerSubtitle": "Space Command",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Battlegroup Palladium",
+        "subheaderTitle": "7th Fleet",
+        "subheaderSubtitle": "UNS-CV RIO GRANDE",
       },
       "options":{
         "eventsMarkdownPerMission": true
